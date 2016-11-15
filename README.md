@@ -83,5 +83,7 @@ for n in *.mha; do   ~/slicer/lib/Slicer-4.5/cli-modules/N4ITKBiasFieldCorrectio
     
 ## 문의
 윤지석
+
 고려대학교 컴퓨터학과
+
 wltjr1007@korea.ac.kr
